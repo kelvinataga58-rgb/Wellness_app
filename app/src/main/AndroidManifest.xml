@@ -12,6 +12,21 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Simba_WellnesApp">
         <activity
+            android:name=".CheckProgress"
+            android:exported="false" />
+        <activity
+            android:name=".WeeklyGoals"
+            android:exported="false" />
+        <activity
+            android:name=".DailyMotivation"
+            android:exported="false" />
+        <activity
+            android:name=".StartExercise"
+            android:exported="false" />
+        <activity
+            android:name=".HydrationAlert"
+            android:exported="false" />
+        <activity
             android:name=".Meditation"
             android:exported="false" />
         <activity

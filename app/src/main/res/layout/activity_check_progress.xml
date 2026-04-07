@@ -7,41 +7,42 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Meditation">
+    tools:context=".CheckProgress">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Meditation"
+        android:text="Check Progress"
         android:textSize="30sp"
         android:layout_margin="30dp"
         android:textAlignment="center"
-        android:textColor="#5CEB61"
-
+        android:textColor="#4FE755"
         />
+
+
 
     <ImageView
-        android:layout_width="wrap_content"
-        android:layout_height="200dp"
-        android:src="@drawable/image3"
-        android:scaleType="centerCrop"
-        android:layout_margin="20dp"
-        />
+            android:layout_width="wrap_content"
+            android:layout_height="200dp"
+            android:src="@drawable/image11"
+            android:scaleType="centerCrop"
+            />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build a mindful routine that supports both your mental and emotional health. Meditation helps you stay centered, improve focus, and maintain a sense of balance in your everyday life."
+        android:text="Track your fitness journey and see how far you've come."
         android:textSize="16sp"
         android:layout_margin="16dp"
         android:textAlignment="center"
         android:textColor="#555555"
         />
 
+
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Breathe. Relax. Repeat. 🌿"
+        android:text="Track it. Crush it. ✅"
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
@@ -50,12 +51,15 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pause. Reset. Shine. ✨"
-
+        android:text="Progress, not perfection. 💪"
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
         />
+
+
+
+
 
 
 </LinearLayout>

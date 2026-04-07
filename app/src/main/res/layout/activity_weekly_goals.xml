@@ -7,16 +7,17 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Meditation">
+    tools:context=".WeeklyGoals">
+
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Meditation"
-        android:textSize="30sp"
         android:layout_margin="30dp"
+        android:text="Weekly Goals"
         android:textAlignment="center"
         android:textColor="#5CEB61"
+        android:textSize="30sp"
 
         />
 
@@ -31,7 +32,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build a mindful routine that supports both your mental and emotional health. Meditation helps you stay centered, improve focus, and maintain a sense of balance in your everyday life."
+        android:text="Take a moment to look back on your week. Every workout, every healthy choice, and every bit of effort counts toward your bigger goal. Keep building momentum and stay committed.."
         android:textSize="16sp"
         android:layout_margin="16dp"
         android:textAlignment="center"
@@ -41,7 +42,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Breathe. Relax. Repeat. 🌿"
+        android:text="“Reflect. Improve. Repeat. 🔄"
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
@@ -50,12 +51,13 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pause. Reset. Shine. ✨"
+        android:text="Small steps, big results! 🚀"
 
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
         />
+
 
 
 </LinearLayout>

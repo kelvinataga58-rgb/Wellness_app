@@ -7,12 +7,12 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Meditation">
+    tools:context=".HydrationAlert">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Meditation"
+        android:text="Hydraton Alert"
         android:textSize="30sp"
         android:layout_margin="30dp"
         android:textAlignment="center"
@@ -23,7 +23,7 @@
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="200dp"
-        android:src="@drawable/image3"
+        android:src="@drawable/image6"
         android:scaleType="centerCrop"
         android:layout_margin="20dp"
         />
@@ -31,7 +31,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build a mindful routine that supports both your mental and emotional health. Meditation helps you stay centered, improve focus, and maintain a sense of balance in your everyday life."
+        android:text="Keep your body refreshed and balanced with regular hydration alerts. Drinking enough water is essential for maintaining energy, improving concentration, and supporting your overall well-being."
         android:textSize="16sp"
         android:layout_margin="16dp"
         android:textAlignment="center"
@@ -41,7 +41,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Breathe. Relax. Repeat. 🌿"
+        android:text="Water = energy! 💧🔥"
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
@@ -50,7 +50,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pause. Reset. Shine. ✨"
+        android:text="Hydrate to dominate! ⚡"
 
         android:textSize="20sp"
         android:layout_margin="20dp"

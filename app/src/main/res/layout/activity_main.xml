@@ -101,6 +101,29 @@
         android:textSize="20sp"
         />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:id="@+id/goals"
+        android:backgroundTint="#417502"
+        android:text="Weekly Goals"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="20sp"
+        />
+
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:id="@+id/progress"
+        android:backgroundTint="#417502"
+        android:text="Check Progress"
+        android:fontFamily="sans-serif-condensed"
+        android:textSize="20sp"
+        />
+
 
 
 

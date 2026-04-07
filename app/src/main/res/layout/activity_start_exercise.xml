@@ -7,31 +7,29 @@
     android:orientation="vertical"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".Meditation">
+    tools:context=".StartExercise">
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Meditation"
+        android:text="Start Exercise"
+        android:textColor="#4FE755"
         android:textSize="30sp"
         android:layout_margin="30dp"
         android:textAlignment="center"
-        android:textColor="#5CEB61"
-
         />
 
     <ImageView
         android:layout_width="wrap_content"
         android:layout_height="200dp"
-        android:src="@drawable/image3"
+        android:src="@drawable/image13"
         android:scaleType="centerCrop"
-        android:layout_margin="20dp"
         />
 
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Build a mindful routine that supports both your mental and emotional health. Meditation helps you stay centered, improve focus, and maintain a sense of balance in your everyday life."
+        android:text="Get ready to move and take the first step toward a healthier lifestyle. Every workout counts, and starting today brings you closer to your fitness goals."
         android:textSize="16sp"
         android:layout_margin="16dp"
         android:textAlignment="center"
@@ -41,7 +39,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Breathe. Relax. Repeat. 🌿"
+        android:text="Move now, shine later! ⚡"
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
@@ -50,12 +48,14 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Pause. Reset. Shine. ✨"
+        android:text="Sweat. Smile. Repeat. 💪"
 
         android:textSize="20sp"
         android:layout_margin="20dp"
         android:textColor="#FF5722"
         />
+
+
 
 
 </LinearLayout>

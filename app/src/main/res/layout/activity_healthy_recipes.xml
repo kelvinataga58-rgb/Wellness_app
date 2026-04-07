@@ -28,4 +28,33 @@
 
      />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Discover nutritious and delicious meals that support your fitness journey. Eating healthy doesn’t have to be boring—explore recipes that are both good for your body and enjoyable to eat."
+        android:textSize="16sp"
+        android:layout_margin="16dp"
+        android:textAlignment="center"
+        android:textColor="#555555"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tasty + healthy = happy! 🍓"
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:textColor="#FF5722"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Eat smart, feel great! 🥑"
+
+        android:textSize="20sp"
+        android:layout_margin="20dp"
+        android:textColor="#FF5722"
+        />
+
 </LinearLayout>
