@@ -11,7 +11,7 @@
 
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="355dp"
         android:layout_height="wrap_content"
         android:layout_margin="30dp"
         android:text="Weekly Goals"
@@ -32,12 +32,11 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Take a moment to look back on your week. Every workout, every healthy choice, and every bit of effort counts toward your bigger goal. Keep building momentum and stay committed.."
-        android:textSize="16sp"
         android:layout_margin="16dp"
+        android:text="Take a moment to look back on your week. Every workout, every healthy choice, and every bit of effort counts toward your bigger goal. Keep building momentum and stay committed.."
         android:textAlignment="center"
         android:textColor="#555555"
-        />
+        android:textSize="16sp" />
 
     <TextView
         android:layout_width="match_parent"
